@@ -1,1 +1,1 @@
-# PTerodactyl
+# Pterodactyl Archives CDN
